@@ -4,8 +4,8 @@ this is another line
 
 ![this is a label](cavity_lab.png)
 
-Monochromater   |   Voltage
---------------- | --------------
-584. |  -1.88
-582. | -1.27
+|Monochromater   |   Voltage|
+|--------------- | --------------|
+|584. |  -1.88|
+|582. | -1.27|
 
