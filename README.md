@@ -11,4 +11,4 @@ this is another line
 |578.5 | -.257|
 |573.|-.470|
 
-![label](compoare_lengths.png)
+![label](compare_lengths.png)
