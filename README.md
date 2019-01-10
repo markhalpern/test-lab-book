@@ -17,5 +17,6 @@ In the list below I have transcribed monochromater dial readings and photomultip
 |582. | -1.27|
 |578.5 | -.257|
 |573.|-.470|
+| 23 | 23|
 
 ![label](compare_lengths.png)
