@@ -1,4 +1,8 @@
-I'm going to use this for testing
+I'm going to use this for testing.  Start each lab day with a to-do list:
+
+- [ ] Item 1
+- [ ] item 2
+- [x] Item 3
 
 this is another line
 
