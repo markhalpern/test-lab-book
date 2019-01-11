@@ -3,6 +3,7 @@ I'm going to use this for testing.  Start each lab day with a to-do list:
 - [ ] Item 1
 - [ ] item 2
 - [x] Item 3
+- [ ] another thing
 
 this is another line
 
@@ -18,5 +19,7 @@ In the list below I have transcribed monochromater dial readings and photomultip
 |578.5 | -.257|
 |573.|-.470|
 | 23 | 23|
+| 540 | -12 |
+
 
 ![label](compare_lengths.png)
